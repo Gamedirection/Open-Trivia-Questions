@@ -25,7 +25,7 @@ Add your entry below:
 
 | Username | Categories | Question Count | Zip Link |
 | --- | --- | --- | --- |
-| Template | Places | 1 | https://github.com/gamedirection/Open-Trivia-Questions/blob/main/template-category.zip |
+| Template | Places | 1 | https://github.com/gamedirection/Open-Trivia-Questions/releases/download/latest/template-category.zip |
 
 ## Notes
 - Keep CSV headers aligned with the template.

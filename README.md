@@ -25,7 +25,7 @@ Add your entry below:
 
 | Username | Categories | Question Count | Zip Link |
 | --- | --- | --- | --- |
-| example-user | Science, Sports | 120 | https://github.com/example/example-repo/archive/refs/heads/main.zip |
+| Template | Places | 1 | https://github.com/gamedirection/Open-Trivia-Questions/blob/main/template-category.zip |
 
 ## Notes
 - Keep CSV headers aligned with the template.

@@ -28,6 +28,8 @@ Add your entry below:
 | Template | Places | 1 | https://github.com/gamedirection/Open-Trivia-Questions/releases/download/latest/template-category.zip |
 | [Uberspot](https://github.com/uberspot/OpenTriviaQA) | animals,brain-teasers,celebrities,entertainment,for-kids,general,geography,history,hobbies,humanities,literature,movies,music,newest,people,rated,religion-faith,science-technology,sports,television,video-games,world | 24 |  [OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA) |
 
+OpenSource DB of trivia: [https://opentdb.com/](https://opentdb.com/)
+
 ## Notes
 - Keep CSV headers aligned with the template.
 - Only include images you have rights to use.

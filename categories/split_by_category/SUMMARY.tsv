@@ -1,0 +1,23 @@
+category_name	file	rows
+Animals	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/animals.csv	1366
+Brain Teasers	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/brain-teasers.csv	207
+Celebrities	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/celebrities.csv	3196
+Entertainment	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/entertainment.csv	280
+For Kids	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/for-kids.csv	759
+General	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/general.csv	3290
+Geography	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/geography.csv	842
+History	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/history.csv	1645
+Hobbies	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/hobbies.csv	1242
+Humanities	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/humanities.csv	1097
+Literature	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/literature.csv	1288
+Movies	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/movies.csv	4313
+Music	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/music.csv	5579
+Newest	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/newest.csv	3016
+People	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/people.csv	2743
+Rated	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/rated.csv	2185
+Religion Faith	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/religion-faith.csv	638
+Science Technology	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/science-technology.csv	2486
+Sports	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/sports.csv	2840
+Television	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/television.csv	5230
+Video Games	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/video-games.csv	599
+World	/home/interfaceas/Documents/Docker/Open-Trivia/categories/split_by_category/world.csv	4875

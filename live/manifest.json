@@ -1,0 +1,373 @@
+{
+  "source": "Open-Trivia live instance",
+  "exported_at": "2026-09-01T19:25:03Z",
+  "scope": "enabled categories and enabled questions only",
+  "csv_header": [
+    "category_name",
+    "question_text",
+    "option_a",
+    "option_b",
+    "option_c",
+    "option_d",
+    "correct_answer",
+    "complexity",
+    "disabled",
+    "image_url"
+  ],
+  "category_count": 44,
+  "question_count": 53394,
+  "categories": [
+    {
+      "name": "Animals",
+      "slug": "animals",
+      "question_count": 1366,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/animals.csv",
+      "zip": "live/category_archives/animals.zip"
+    },
+    {
+      "name": "Apple Certification",
+      "slug": "apple-certification",
+      "question_count": 0,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/apple-certification.csv",
+      "zip": "live/category_archives/apple-certification.zip"
+    },
+    {
+      "name": "Brain Teasers",
+      "slug": "brain-teasers",
+      "question_count": 207,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/brain-teasers.csv",
+      "zip": "live/category_archives/brain-teasers.zip"
+    },
+    {
+      "name": "Celebrities",
+      "slug": "celebrities",
+      "question_count": 3196,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/celebrities.csv",
+      "zip": "live/category_archives/celebrities.zip"
+    },
+    {
+      "name": "Computer - AWS Solutions Architect Certificate",
+      "slug": "computer-aws-solutions-architect-certificate",
+      "question_count": 461,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/computer-aws-solutions-architect-certificate.csv",
+      "zip": "live/category_archives/computer-aws-solutions-architect-certificate.zip"
+    },
+    {
+      "name": "Computer - ArgoCD",
+      "slug": "computer-argocd",
+      "question_count": 100,
+      "questions_with_images": 9,
+      "csv": "live/split_by_category/computer-argocd.csv",
+      "zip": "live/category_archives/computer-argocd.zip"
+    },
+    {
+      "name": "Computer - ArgoCD v2",
+      "slug": "computer-argocd-v2",
+      "question_count": 100,
+      "questions_with_images": 9,
+      "csv": "live/split_by_category/computer-argocd-v2.csv",
+      "zip": "live/category_archives/computer-argocd-v2.zip"
+    },
+    {
+      "name": "Computer - CompTIA Netwroking+",
+      "slug": "computer-comptia-netwroking",
+      "question_count": 470,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/computer-comptia-netwroking.csv",
+      "zip": "live/category_archives/computer-comptia-netwroking.zip"
+    },
+    {
+      "name": "Computer - Comptia A+",
+      "slug": "computer-comptia-a",
+      "question_count": 43,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/computer-comptia-a.csv",
+      "zip": "live/category_archives/computer-comptia-a.zip"
+    },
+    {
+      "name": "Computer - DevOps",
+      "slug": "computer-devops",
+      "question_count": 100,
+      "questions_with_images": 6,
+      "csv": "live/split_by_category/computer-devops.csv",
+      "zip": "live/category_archives/computer-devops.zip"
+    },
+    {
+      "name": "Computer - DevOps v2",
+      "slug": "computer-devops-v2",
+      "question_count": 100,
+      "questions_with_images": 6,
+      "csv": "live/split_by_category/computer-devops-v2.csv",
+      "zip": "live/category_archives/computer-devops-v2.zip"
+    },
+    {
+      "name": "Computer - Git Source Control",
+      "slug": "computer-git-source-control",
+      "question_count": 250,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/computer-git-source-control.csv",
+      "zip": "live/category_archives/computer-git-source-control.zip"
+    },
+    {
+      "name": "Computer - GitLab",
+      "slug": "computer-gitlab",
+      "question_count": 100,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/computer-gitlab.csv",
+      "zip": "live/category_archives/computer-gitlab.zip"
+    },
+    {
+      "name": "Computer - Kong",
+      "slug": "computer-kong",
+      "question_count": 100,
+      "questions_with_images": 9,
+      "csv": "live/split_by_category/computer-kong.csv",
+      "zip": "live/category_archives/computer-kong.zip"
+    },
+    {
+      "name": "Computer - Kong v2",
+      "slug": "computer-kong-v2",
+      "question_count": 100,
+      "questions_with_images": 9,
+      "csv": "live/split_by_category/computer-kong-v2.csv",
+      "zip": "live/category_archives/computer-kong-v2.zip"
+    },
+    {
+      "name": "Computer - Kubernetes",
+      "slug": "computer-kubernetes",
+      "question_count": 100,
+      "questions_with_images": 8,
+      "csv": "live/split_by_category/computer-kubernetes.csv",
+      "zip": "live/category_archives/computer-kubernetes.zip"
+    },
+    {
+      "name": "Computer - Kubernetes v2",
+      "slug": "computer-kubernetes-v2",
+      "question_count": 100,
+      "questions_with_images": 8,
+      "csv": "live/split_by_category/computer-kubernetes-v2.csv",
+      "zip": "live/category_archives/computer-kubernetes-v2.zip"
+    },
+    {
+      "name": "Computer - Traefik",
+      "slug": "computer-traefik",
+      "question_count": 100,
+      "questions_with_images": 7,
+      "csv": "live/split_by_category/computer-traefik.csv",
+      "zip": "live/category_archives/computer-traefik.zip"
+    },
+    {
+      "name": "Computer - Traefik v2",
+      "slug": "computer-traefik-v2",
+      "question_count": 100,
+      "questions_with_images": 7,
+      "csv": "live/split_by_category/computer-traefik-v2.csv",
+      "zip": "live/category_archives/computer-traefik-v2.zip"
+    },
+    {
+      "name": "Entertainment",
+      "slug": "entertainment",
+      "question_count": 280,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/entertainment.csv",
+      "zip": "live/category_archives/entertainment.zip"
+    },
+    {
+      "name": "For Kids",
+      "slug": "for-kids",
+      "question_count": 759,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/for-kids.csv",
+      "zip": "live/category_archives/for-kids.zip"
+    },
+    {
+      "name": "General",
+      "slug": "general",
+      "question_count": 3292,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/general.csv",
+      "zip": "live/category_archives/general.zip"
+    },
+    {
+      "name": "Geography",
+      "slug": "geography",
+      "question_count": 842,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/geography.csv",
+      "zip": "live/category_archives/geography.zip"
+    },
+    {
+      "name": "Geology General",
+      "slug": "geology-general",
+      "question_count": 50,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/geology-general.csv",
+      "zip": "live/category_archives/geology-general.zip"
+    },
+    {
+      "name": "Geology Identification - Rocks",
+      "slug": "geology-identification-rocks",
+      "question_count": 20,
+      "questions_with_images": 20,
+      "csv": "live/split_by_category/geology-identification-rocks.csv",
+      "zip": "live/category_archives/geology-identification-rocks.zip"
+    },
+    {
+      "name": "Geology Identification - Stones & Gems",
+      "slug": "geology-identification-stones-gems",
+      "question_count": 70,
+      "questions_with_images": 70,
+      "csv": "live/split_by_category/geology-identification-stones-gems.csv",
+      "zip": "live/category_archives/geology-identification-stones-gems.zip"
+    },
+    {
+      "name": "Geology Mohs Hardness",
+      "slug": "geology-mohs-hardness",
+      "question_count": 210,
+      "questions_with_images": 210,
+      "csv": "live/split_by_category/geology-mohs-hardness.csv",
+      "zip": "live/category_archives/geology-mohs-hardness.zip"
+    },
+    {
+      "name": "History",
+      "slug": "history",
+      "question_count": 1645,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/history.csv",
+      "zip": "live/category_archives/history.zip"
+    },
+    {
+      "name": "Hobbies",
+      "slug": "hobbies",
+      "question_count": 1242,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/hobbies.csv",
+      "zip": "live/category_archives/hobbies.zip"
+    },
+    {
+      "name": "Humanities",
+      "slug": "humanities",
+      "question_count": 1097,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/humanities.csv",
+      "zip": "live/category_archives/humanities.zip"
+    },
+    {
+      "name": "Literature",
+      "slug": "literature",
+      "question_count": 1288,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/literature.csv",
+      "zip": "live/category_archives/literature.zip"
+    },
+    {
+      "name": "Movies",
+      "slug": "movies",
+      "question_count": 4313,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/movies.csv",
+      "zip": "live/category_archives/movies.zip"
+    },
+    {
+      "name": "Music",
+      "slug": "music",
+      "question_count": 5579,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/music.csv",
+      "zip": "live/category_archives/music.zip"
+    },
+    {
+      "name": "Newest",
+      "slug": "newest",
+      "question_count": 3016,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/newest.csv",
+      "zip": "live/category_archives/newest.zip"
+    },
+    {
+      "name": "People",
+      "slug": "people",
+      "question_count": 2743,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/people.csv",
+      "zip": "live/category_archives/people.zip"
+    },
+    {
+      "name": "Python",
+      "slug": "python",
+      "question_count": 1000,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/python.csv",
+      "zip": "live/category_archives/python.zip"
+    },
+    {
+      "name": "Rated",
+      "slug": "rated",
+      "question_count": 2185,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/rated.csv",
+      "zip": "live/category_archives/rated.zip"
+    },
+    {
+      "name": "Religion Faith",
+      "slug": "religion-faith",
+      "question_count": 638,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/religion-faith.csv",
+      "zip": "live/category_archives/religion-faith.zip"
+    },
+    {
+      "name": "Science",
+      "slug": "science",
+      "question_count": 2,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/science.csv",
+      "zip": "live/category_archives/science.zip"
+    },
+    {
+      "name": "Science Technology",
+      "slug": "science-technology",
+      "question_count": 2486,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/science-technology.csv",
+      "zip": "live/category_archives/science-technology.zip"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "question_count": 2840,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/sports.csv",
+      "zip": "live/category_archives/sports.zip"
+    },
+    {
+      "name": "Television",
+      "slug": "television",
+      "question_count": 5230,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/television.csv",
+      "zip": "live/category_archives/television.zip"
+    },
+    {
+      "name": "Video Games",
+      "slug": "video-games",
+      "question_count": 599,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/video-games.csv",
+      "zip": "live/category_archives/video-games.zip"
+    },
+    {
+      "name": "World",
+      "slug": "world",
+      "question_count": 4875,
+      "questions_with_images": 0,
+      "csv": "live/split_by_category/world.csv",
+      "zip": "live/category_archives/world.zip"
+    }
+  ]
+}
